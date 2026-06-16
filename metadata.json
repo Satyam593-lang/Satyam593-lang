@@ -1,0 +1,8 @@
+{
+  "name": "Supply Chain Forecasting",
+  "description": "Enterprise-grade Supply Chain Control Tower and Intelligence platform featuring global network maps, live shipment tracking, scenario simulators, carbon footprinting, and AI-powered demand sensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
